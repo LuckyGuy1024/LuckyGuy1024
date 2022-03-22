@@ -8,14 +8,6 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=oshimaninja.oshimaninja" />
 <h1 align="center"></h1>
 
-- 🔭 I’m currently free now.
-
-- 🌱 I’m currently learning **Rust, Solana, Blockchain, Smart Contract**
-
-- 💬 Ask me about **React, Node**
-
-- 📫 How to reach me **explosive0105@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
