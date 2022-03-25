@@ -53,8 +53,6 @@ Have the eye of the owner; being able to change position on the owner's position
 
 ✔️ Blockchain(Web3, Solana, SmartContract, Solidity)
 
-✔️ Unity
-
 ✔️ C++
 
 ✔️ Python(FastAPI, Flask, Django, Panda, Tensorflow, yfinance)
